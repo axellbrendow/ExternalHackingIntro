@@ -1,5 +1,5 @@
 # ExternalHackingIntro
-Guia prático de external game hacking.
+Practical guide to external game hacking.
 
 ### Links
 
