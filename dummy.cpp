@@ -16,7 +16,7 @@ int main()
 
     while (1)
     {
-        cout << "Process ID:\t" << GetCurrentProcessId() << endl;
+        cout << "Process ID:\t" << dec << GetCurrentProcessId() << endl;
 
         cout << "varInt\t\t(" << hex << uppercase << &varInt << ") = " << varInt << endl;
         cout << "varString\t(" << hex << uppercase << &varString << ") = " << varString << endl;
